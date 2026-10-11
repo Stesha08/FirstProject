@@ -1,0 +1,8 @@
+numbar1 = int(input("Введите первое число: "))
+numbar2 = int(input("Введите второе число: "))
+numbar3 = int(input("Введите третье число: "))
+numbar4 = int(input("Введите четвёртое число: "))
+print("Выводится сложение: ", numbar1 + numbar2 + numbar3 + numbar4)
+print("Выводится вычитание: ", numbar1 - numbar2 - numbar3 - numbar4)
+print("Выводится умножение: ", numbar1 * numbar2 * numbar3 * numbar4)
+print("Выводится диление: ", numbar1 / numbar2 / numbar3 / numbar4)
